@@ -17,3 +17,6 @@ __pycache__/
 
 Thumbs.db
 Desktop.ini
+
+# MediaPipe model file (downloaded at setup, not tracked in git)
+*.task
